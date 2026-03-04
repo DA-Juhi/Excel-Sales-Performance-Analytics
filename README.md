@@ -9,7 +9,7 @@ The project focused on transforming raw, unverified data into a dynamic dashboar
 
 
 # Data Processing
-**Cleaning the Data:** I took nearly 10,000 messy rows of sales data and used Excel & Power Query to fix errors and remove duplicates. This created a single, reliable "Master" list to work from.
+**Cleaning the Data:** Used Excel & Power Query to fix errors and remove duplicates of sales data. This created a single, reliable "Master" list to work from.
 
 **Calculating Results:** I built formulas and Pivot Tables to find important numbers like Year-over-Year (YoY) growth and which regions were making the most money.
 
