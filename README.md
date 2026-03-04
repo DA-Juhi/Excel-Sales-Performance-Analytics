@@ -22,3 +22,7 @@ The project focused on transforming raw, unverified data into a dynamic dashboar
 **Smart Marketing:** I found that California and New York are the biggest profit makers. The company can now save money by spending its marketing budget where it actually gets the best results.
 
 **Better Product Focus:** The data shows that Technology products make the most profit ($145k+), while Furniture makes much less. This tells the company to focus more on selling gadgets and tech to make more money.
+
+# Technical Stack
+
+**Advanced Excel** (Power Query, Pivot Tables, XLOOKUP, Data Validation)
